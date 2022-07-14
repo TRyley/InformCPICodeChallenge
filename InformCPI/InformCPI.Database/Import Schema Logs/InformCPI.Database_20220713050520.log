@@ -1,0 +1,85 @@
+13/07/2022 18:05:20	This log contains information about the import schema operation into project 'InformCPI.Database' on computer 'DESKTOP-QD8JMOM' by user 'terry'.
+13/07/2022 18:05:20	Import of database schema has started.
+13/07/2022 18:05:23	Gathering database credentials
+13/07/2022 18:05:23	Gathering database options
+13/07/2022 18:05:23	Gathering generic database scoped configuration option
+13/07/2022 18:05:23	Gathering users
+13/07/2022 18:05:23	Gathering roles
+13/07/2022 18:05:23	Gathering application roles
+13/07/2022 18:05:23	Gathering role memberships
+13/07/2022 18:05:23	Gathering filegroups
+13/07/2022 18:05:23	Gathering full-text catalogs
+13/07/2022 18:05:23	Gathering assemblies
+13/07/2022 18:05:23	Gathering certificates
+13/07/2022 18:05:23	Gathering asymmetric keys
+13/07/2022 18:05:23	Gathering symmetric keys
+13/07/2022 18:05:23	Gathering encrypted symmetric keys
+13/07/2022 18:05:23	Gathering schemas
+13/07/2022 18:05:23	Gathering XML schema collections
+13/07/2022 18:05:23	Gathering user-defined data types
+13/07/2022 18:05:23	Gathering user-defined types
+13/07/2022 18:05:23	Gathering table types
+13/07/2022 18:05:23	Gathering unique keys for table types
+13/07/2022 18:05:23	Gathering primary keys for table types
+13/07/2022 18:05:23	Gathering indexes for table types
+13/07/2022 18:05:23	Gathering check constraints for table types
+13/07/2022 18:05:23	Gathering default constraints for table types
+13/07/2022 18:05:23	Gathering partition functions
+13/07/2022 18:05:23	Gathering partition schemes
+13/07/2022 18:05:23	Gathering functions
+13/07/2022 18:05:23	Gathering encrypted functions
+13/07/2022 18:05:23	Gathering aggregates
+13/07/2022 18:05:23	Gathering procedures
+13/07/2022 18:05:23	Gathering encrypted procedures
+13/07/2022 18:05:23	Gathering tables
+13/07/2022 18:05:23	Gathering primary keys
+13/07/2022 18:05:23	Gathering unique constraints
+13/07/2022 18:05:23	Gathering foreign keys
+13/07/2022 18:05:23	Gathering default constraints
+13/07/2022 18:05:23	Gathering check constraints
+13/07/2022 18:05:23	Gathering views
+13/07/2022 18:05:23	Gathering encrypted views
+13/07/2022 18:05:23	Gathering indexes
+13/07/2022 18:05:23	Gathering statistics
+13/07/2022 18:05:23	Gathering full-text index stoplists
+13/07/2022 18:05:23	Gathering search property lists
+13/07/2022 18:05:23	Gathering search properties
+13/07/2022 18:05:23	Gathering full-text indexes
+13/07/2022 18:05:23	Gathering column store indexes
+13/07/2022 18:05:23	Gathering spatial indexes
+13/07/2022 18:05:23	Gathering XML indexes
+13/07/2022 18:05:23	Gathering Selective XML indexes
+13/07/2022 18:05:23	Gathering encrypted triggers
+13/07/2022 18:05:23	Gathering triggers
+13/07/2022 18:05:23	Gathering encrypted and clr ddl triggers
+13/07/2022 18:05:23	Gathering ddl triggers
+13/07/2022 18:05:23	Creating edge constraints
+13/07/2022 18:05:23	Gathering synonyms
+13/07/2022 18:05:23	Gathering defaults
+13/07/2022 18:05:23	Gathering data constraint uddt bindings
+13/07/2022 18:05:23	Gathering rules
+13/07/2022 18:05:23	Gathering data constraint uddt bindings
+13/07/2022 18:05:23	Gathering message types
+13/07/2022 18:05:23	Gathering queues
+13/07/2022 18:05:23	Gathering contracts
+13/07/2022 18:05:23	Gathering services
+13/07/2022 18:05:23	Gathering event notifications
+13/07/2022 18:05:23	Gathering remote service bindings
+13/07/2022 18:05:23	Gathering broker priorities
+13/07/2022 18:05:23	Gathering signatures
+13/07/2022 18:05:23	Gathering data compression options
+13/07/2022 18:05:23	Gathering sequence types
+13/07/2022 18:05:23	Gathering security policies
+13/07/2022 18:05:23	Gather column encryption keys
+13/07/2022 18:05:23	Gathering column master keys
+13/07/2022 18:05:23	Gathering external data sources
+13/07/2022 18:05:23	Gathering external file formats
+13/07/2022 18:05:23	Gathering external tables
+13/07/2022 18:05:23	Gathering extended properties
+13/07/2022 18:05:23	Gathering assemblies
+13/07/2022 18:05:23	Gathering credentials
+13/07/2022 18:05:23	Gathering logins
+13/07/2022 18:05:23	Gathering server audits
+13/07/2022 18:05:23	Finished importing database.
+13/07/2022 18:05:23	A summary of the import was saved to the following location: C:\Users\terry\source\repos\InformCPI\InformCPI.Database\Import Schema Logs\InformCPI.Database_20220713050520.log
+13/07/2022 18:05:23	Click Finish to continue...

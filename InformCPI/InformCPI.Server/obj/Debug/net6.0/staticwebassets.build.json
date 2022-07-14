@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LXLPJ2xTHX1h9tJSNGjT0wBw81T4NOFGJc7ZZHV93/c=",
+  "Source": "InformCPI.Server",
+  "BasePath": "_content/InformCPI.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

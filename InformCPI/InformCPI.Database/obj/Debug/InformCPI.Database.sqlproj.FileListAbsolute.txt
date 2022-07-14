@@ -1,0 +1,6 @@
+C:\Users\terry\source\repos\InformCPI\InformCPI.Database\bin\Debug\InformCPI.Database.dacpac
+C:\Users\terry\source\repos\InformCPI\InformCPI.Database\bin\Debug\InformCPI.Database.dll
+C:\Users\terry\source\repos\InformCPI\InformCPI.Database\bin\Debug\InformCPI.Database.pdb
+C:\Users\terry\source\repos\InformCPI\InformCPI.Database\obj\Debug\InformCPI.Database.sqlproj.AssemblyReference.cache
+C:\Users\terry\source\repos\InformCPI\InformCPI.Database\obj\Debug\InformCPI.Database.dll
+C:\Users\terry\source\repos\InformCPI\InformCPI.Database\obj\Debug\InformCPI.Database.pdb
