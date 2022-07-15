@@ -1,0 +1,46 @@
+<div class="page">
+  <h1 class="tableLabel">{{title}}</h1>
+
+  <div class="container">
+    <div class="entry item">
+      <h3 class="entryLabel">Enter a New Contact</h3>
+      <form class="form" [formGroup]="contactForm" (ngSubmit)="onSubmit()">
+
+        <label for="name">Name: </label>
+        <input id="name" type="text" formControlName="name">
+
+        <label for="email">Email: </label>
+        <input id="email" type="text" formControlName="email">
+
+        <label for="phoneNum">Phone Number: </label>
+        <input id="phoneNum" type="text" formControlName="phoneNum">
+
+        <label for="address">Address: </label>
+        <input id="address" type="text" formControlName="address">
+
+        <button type="submit">Add</button>
+
+      </form>
+    </div>
+    <table class="table item" *ngIf="hasContacts">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Phone No.</th>
+          <th>Email</th>
+          <th>Address</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let contact of contacts">
+          <td><input type="text" [(ngModel)]="contact.name" /></td>
+          <td><input type="text" [(ngModel)]="contact.phoneNum" /></td>
+          <td><input type="text" [(ngModel)]="contact.email" /></td>
+          <td><input type="text" [(ngModel)]="contact.address" /></td>
+          <td><button (click)="onEditClick(contact)">edit</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
